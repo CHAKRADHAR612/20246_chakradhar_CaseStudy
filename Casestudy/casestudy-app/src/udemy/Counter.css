@@ -1,0 +1,10 @@
+.counter{
+    background-color: green;
+    color:aqua;
+    padding : 15px 25px;
+    margin:10px;
+}
+.count{
+    padding:30px;
+    font-size: 25px;
+}
